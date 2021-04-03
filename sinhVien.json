@@ -1,13 +1,13 @@
 [
     { 
         "ten": "Lương Tuyên Quang", 
-        "tuoi": 20, 
+        "tuoi": 22, 
         "Toan": 7, 
         "tiengAnh": 8, 
         "lapTrinh": 9, 
         "diemTB": null, 
         "totNghiep": null, 
-        "lienLac": { "email": "teo@gmail.com", "phone": "0999.987.123" } 
+        "lienLac": { "email": "luongtuyenquang77@gmail.com", "phone": "0911.111.123" } 
     },
     { 
         "ten": "Nguyễn Thị Kiều Vân", 
@@ -17,16 +17,16 @@
         "lapTrinh": 5, 
         "diemTB": null, 
         "totNghiep": null, 
-        "lienLac": { "email": "ti@gmail.com", "phone": "0999.987.123" } 
+        "lienLac": { "email": "nguyenthikieuvan@gmail.com", "phone": "0123.456.789" } 
     },
     { 
         "ten": "Trần Văn C", 
-        "tuoi": 20, 
+        "tuoi": 19, 
         "Toan": 6, 
         "tiengAnh": 8, 
         "lapTrinh": 8, 
         "diemTB": null, 
         "totNghiep": null, 
-        "lienLac": { "email": "mui@gmail.com", "phone": "0999.987.123" } 
+        "lienLac": { "email": "tranvanc@gmail.com", "phone": "0999.999.999" } 
     }
 ]
